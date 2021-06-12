@@ -1,25 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+import '@fontsource/roboto';
+import { Container, createMuiTheme, CssBaseline, ThemeProvider } from '@material-ui/core';
+import Header from './components/Header';
+import Users from './pages/Users';
+import { deepPurple, deepOrange } from '@material-ui/core/colors';
+//
 
-function App() {
+const theme = createMuiTheme({
+  palette: {
+    background: {
+      default: '#fff3f3',
+    },
+    primary: {
+      main: deepPurple[500],
+    },
+    secondary: {
+      main: deepOrange[500],
+    },
+  },
+});
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider theme={theme}>
+      <div>
+        <Header />
+        <Container>
+          <Users />
+        </Container>
+      </div>
+      <CssBaseline />
+    </ThemeProvider>
   );
-}
+};
 
 export default App;
+// #fff3f3

@@ -1,0 +1,253 @@
+{
+  "users": [
+    {
+      "fullName": "John Wick",
+      "email": "johnwick@mail.com",
+      "phone": "0000000001",
+      "city": "Paris",
+      "gender": "male",
+      "date": "2021-05-12T12:04:00.000Z",
+      "department": "Marketing",
+      "fullTime": true,
+      "id": 1
+    },
+    {
+      "fullName": "John Wall",
+      "email": "johnwall@mail.com",
+      "phone": "1231231231",
+      "city": "Tokyo",
+      "gender": "male",
+      "date": "2021-05-28T12:25:00.000Z",
+      "department": "Research",
+      "fullTime": true,
+      "id": 2
+    },
+    {
+      "fullName": "John Smith",
+      "email": "johnsmith@mail.com",
+      "phone": "1231345134",
+      "city": "Odessa",
+      "gender": "male",
+      "date": "2021-05-20T13:19:00.000Z",
+      "department": "Marketing",
+      "fullTime": false,
+      "id": 3
+    },
+    {
+      "fullName": "John Wick",
+      "email": "johnwick@mail.com",
+      "phone": "0000000001",
+      "city": "Paris",
+      "gender": "male",
+      "date": "2021-05-12T12:04:00.000Z",
+      "department": "Marketing",
+      "fullTime": true,
+      "id": 4
+    },
+    {
+      "fullName": "John Snow",
+      "email": "johnsnow@mail.com",
+      "phone": "1231231231",
+      "city": "Budapest",
+      "gender": "male",
+      "date": "2021-05-15T12:25:00.000Z",
+      "department": "Development",
+      "fullTime": true,
+      "id": 5
+    },
+    {
+      "fullName": "John Wick",
+      "email": "johnwick@mail.com",
+      "phone": "0000000001",
+      "city": "Paris",
+      "gender": "male",
+      "date": "2021-05-12T12:04:00.000Z",
+      "department": "Marketing",
+      "fullTime": true,
+      "id": 7
+    },
+    {
+      "fullName": "johnwall",
+      "email": "johnwall@mail.com",
+      "phone": "1231231231",
+      "city": "Tokyo",
+      "gender": "male",
+      "date": "2021-05-15T12:25:00.000Z",
+      "department": "Development",
+      "fullTime": true,
+      "id": 8
+    },
+    {
+      "fullName": "John Wick",
+      "email": "johnwick@mail.com",
+      "phone": "0000000001",
+      "city": "Paris",
+      "gender": "male",
+      "date": "2021-05-12T12:04:00.000Z",
+      "department": "Marketing",
+      "fullTime": true,
+      "id": 10
+    },
+    {
+      "fullName": "johnwall",
+      "email": "johnwall@mail.com",
+      "phone": "1231231231",
+      "city": "Tokyo",
+      "gender": "male",
+      "date": "2021-05-15T12:25:00.000Z",
+      "department": "Development",
+      "fullTime": true,
+      "id": 11
+    },
+    {
+      "fullName": "John Wick",
+      "email": "johnwick@mail.com",
+      "phone": "0000000001",
+      "city": "Paris",
+      "gender": "male",
+      "date": "2021-05-12T12:04:00.000Z",
+      "department": "Marketing",
+      "fullTime": true,
+      "id": 13
+    },
+    {
+      "fullName": "John Wick",
+      "email": "johnwick@mail.com",
+      "phone": "0000000001",
+      "city": "Paris",
+      "gender": "male",
+      "date": "2021-05-12T12:04:00.000Z",
+      "department": "Marketing",
+      "fullTime": true,
+      "id": 16
+    },
+    {
+      "fullName": "John Smith",
+      "email": "johnsmith@mail.com",
+      "phone": "1231345134",
+      "city": "Odessa",
+      "gender": "male",
+      "date": "2021-05-20T13:19:00.000Z",
+      "department": "Marketing",
+      "fullTime": false,
+      "id": 18
+    },
+    {
+      "fullName": "John Smith",
+      "email": "johnsmith@mail.com",
+      "phone": "1231345134",
+      "city": "Odessa",
+      "gender": "male",
+      "date": "2021-05-20T13:19:00.000Z",
+      "department": "Marketing",
+      "fullTime": false,
+      "id": 21
+    },
+    {
+      "fullName": "John Wick",
+      "email": "johnwick@mail.com",
+      "phone": "0000000001",
+      "city": "Paris",
+      "gender": "male",
+      "date": "2021-05-12T12:04:00.000Z",
+      "department": "Marketing",
+      "fullTime": true,
+      "id": 22
+    },
+    {
+      "fullName": "John Smith",
+      "email": "johnsmith@mail.com",
+      "phone": "1231345134",
+      "city": "Odessa",
+      "gender": "male",
+      "date": "2021-05-20T13:19:00.000Z",
+      "department": "Marketing",
+      "fullTime": false,
+      "id": 24
+    },
+    {
+      "fullName": "John Wick",
+      "email": "johnwick@mail.com",
+      "phone": "0000000001",
+      "city": "Paris",
+      "gender": "male",
+      "date": "2021-05-12T12:04:00.000Z",
+      "department": "Marketing",
+      "fullTime": true,
+      "id": 25
+    },
+    {
+      "fullName": "John Smith",
+      "email": "johnsmith@mail.com",
+      "phone": "1231345134",
+      "city": "Odessa",
+      "gender": "male",
+      "date": "2021-08-19T13:19:00.000Z",
+      "department": "Marketing",
+      "fullTime": false,
+      "id": 27
+    },
+    {
+      "fullName": "John Wick",
+      "email": "johnwick@mail.com",
+      "phone": "0000000001",
+      "city": "Paris",
+      "gender": "male",
+      "date": "2021-05-12T12:04:00.000Z",
+      "department": "Marketing",
+      "fullTime": true,
+      "id": 28
+    },
+    {
+      "fullName": "John Smith",
+      "email": "johnsmith@mail.com",
+      "phone": "1231345134",
+      "city": "Odessa",
+      "gender": "male",
+      "date": "2021-05-20T13:19:00.000Z",
+      "department": "Marketing",
+      "fullTime": false,
+      "id": 30
+    },
+    {
+      "fullName": "Elsa Jean",
+      "email": "elsajean@mail.com",
+      "phone": "8642632812",
+      "city": "Berlin",
+      "gender": "female",
+      "date": "2021-09-23T15:53:00.000Z",
+      "department": "HR",
+      "fullTime": false,
+      "id": 31
+    },
+    {
+      "fullName": "Jack Duckar",
+      "email": "jackduckar@mail.com",
+      "phone": "7784920382",
+      "city": "Perth",
+      "gender": "male",
+      "date": "2021-08-13T13:42:00.000Z",
+      "department": "Development",
+      "fullTime": true,
+      "id": 32
+    }
+  ],
+  "departments": [
+    {
+      "title": "HR",
+      "id": 1
+    },
+    {
+      "title": "Marketing",
+      "id": 2
+    },
+    {
+      "title": "Research",
+      "id": 3
+    },
+    {
+      "title": "Development",
+      "id": 4
+    }
+  ]
+}
